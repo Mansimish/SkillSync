@@ -225,9 +225,3 @@ AI quality depends on model and input quality. Scanned PDFs have no OCR; complex
 ## Future improvements
 
 Queued AI jobs with progress, opt-in private video storage, provider-backed transcription, shared throttling, full data erasure, password recovery, OCR, curated evaluation datasets, accessibility audits and native indexed vector storage. These are proposals, not features.
-
-## Author
-
-Piyush Kumar — [piyush00455@gmail.com](mailto:piyush00455@gmail.com)
-
-Institution, supervisor, submission year and institution-approved license remain to be added. No invented institution details, results, screenshots or live URLs are included.
